@@ -1,0 +1,1 @@
+select started_at from GIT.GIT_SCHEMA.GIT_TABLE
