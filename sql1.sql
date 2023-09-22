@@ -1,0 +1,1 @@
+select * from GIT.GIT_SCHEMA.GIT_TABLE
